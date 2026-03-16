@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_API/static/css/main.be6332f0.css",
-    "main.js": "/React_API/static/js/main.c4197c5f.js",
-    "static/media/morty.jpg": "/React_API/static/media/morty.80546a5a0e7d160907a8.jpg",
-    "index.html": "/React_API/index.html",
-    "main.be6332f0.css.map": "/React_API/static/css/main.be6332f0.css.map",
-    "main.c4197c5f.js.map": "/React_API/static/js/main.c4197c5f.js.map"
+    "main.css": "/React_API_Rick_Morty/static/css/main.363a2907.css",
+    "main.js": "/React_API_Rick_Morty/static/js/main.d667d06b.js",
+    "static/media/morty.jpg": "/React_API_Rick_Morty/static/media/morty.80546a5a0e7d160907a8.jpg",
+    "index.html": "/React_API_Rick_Morty/index.html",
+    "main.363a2907.css.map": "/React_API_Rick_Morty/static/css/main.363a2907.css.map",
+    "main.d667d06b.js.map": "/React_API_Rick_Morty/static/js/main.d667d06b.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6332f0.css",
-    "static/js/main.c4197c5f.js"
+    "static/css/main.363a2907.css",
+    "static/js/main.d667d06b.js"
   ]
 }
